@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Search Researcher CV into CVLac system" tests="5" skipped="4" failures="0" errors="0" timestamp="2026-02-11T16:55:21" hostname="TEBI" time="0.007">
+  <properties/>
+  <testcase name="Given I am in CvLAC home page" classname="Scenario: Search Researcher CV into CVLac system" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="When I select CVLac system" classname="Scenario: Search Researcher CV into CVLac system" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then I select educational level" classname="Scenario: Search Researcher CV into CVLac system" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="And I start to extract the researchers cv data" classname="Scenario: Search Researcher CV into CVLac system" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Scenario: Search Researcher CV into CVLac system" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

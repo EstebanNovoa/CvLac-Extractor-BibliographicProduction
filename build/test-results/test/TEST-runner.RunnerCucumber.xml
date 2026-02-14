@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runner.RunnerCucumber" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="TEBI" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature: Extract Researchers CV Data
+
+  @Search_Cv_Researchers
+  Scenario: Search Researcher CV into CVLac system ?[90m# ReserchearsCVExtractor.feature:4?[0m
+    ?[33mGiven ?[0m?[33mI am in CvLAC home page?[0m
+    ?[33mWhen ?[0m?[33mI select CVLac system?[0m
+    ?[33mThen ?[0m?[33mI select educational level?[0m
+    ?[33mAnd ?[0m?[33mI start to extract the researchers cv data?[0m
+
+1 Scenarios (?[33m1 undefined?[0m)
+4 Steps (?[33m4 undefined?[0m)
+0m0.000s
+
+
+You can implement missing steps with the snippets below:
+
+@Given("^I am in CvLAC home page$")
+public void i_am_in_CvLAC_home_page() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^I select CVLac system$")
+public void i_select_CVLac_system() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^I select educational level$")
+public void i_select_educational_level() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^I start to extract the researchers cv data$")
+public void i_start_to_extract_the_researchers_cv_data() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
